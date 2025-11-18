@@ -3,7 +3,7 @@
 # **LOAN APPROVAL DATA ANALYSIS**
 ##  📊 **EDA Project**
 
-In this project, I performed **Exploratory Data Analysis (EDA)** on a loan approval dataset to understand the factors that influence the **Loan_Status**. I began by exploring the dataset’s structure : i.e checking **data types**, separating **numerical and categorical** columns, and identifying **missing values**. This initial step helped me understand the dataset and prepare it for proper analysis.
+In this project, I performed **Exploratory Data Analysis (EDA)** on a loan approval dataset to understand the factors that influence the **Loan_Status**. I began by exploring the dataset’s structure - i.e checking **data types**, separating **numerical and categorical** columns, and identifying **missing values**. This initial step helped me understand the dataset and prepare it for proper analysis.
 
 I then cleaned the data by handling missing and inconsistent entries using **median** and **mode imputation**, and ensured each feature had the correct data type. After cleaning, I performed **univariate analysis** to explore the distribution of each column. I used **histograms, boxplots, countplots**, and **Plotly interactive visualizations** to study patterns, detect **outliers**, and identify **skewed** numerical features.
 
