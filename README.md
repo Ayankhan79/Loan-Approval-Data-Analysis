@@ -27,3 +27,5 @@ From this EDA project, I learned how to:
 Overall, this project strengthened my ability to explore datasets effectively and understand insights clearly,exactly like what is expected from a data analyst or data scientist.
 
 
+### About Insights, There is a File named: "Insights.md" in the repo.. you'll get all insights over there
+
