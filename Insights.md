@@ -1,6 +1,6 @@
 
 
-## 🔍 **Insights I Gained From the Loan EDA**
+## 🔍 **Insights i Gained From the Loan EDA**
 
 
 
