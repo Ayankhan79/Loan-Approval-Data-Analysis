@@ -1,9 +1,9 @@
 ---
 
-# 📊 **EDA Project Summary**
-## **LOAN APPROVAL DATA ANALYSIS**
+# **LOAN APPROVAL DATA ANALYSIS**
+##  📊 **EDA Project **
 
-In this project, I performed **Exploratory Data Analysis (EDA)** on a loan approval dataset to understand the factors that influence the **Loan_Status**. I began by exploring the dataset’s structure—checking **data types**, separating **numerical and categorical** columns, and identifying **missing values**. This initial step helped me understand the dataset and prepare it for proper analysis.
+In this project, I performed **Exploratory Data Analysis (EDA)** on a loan approval dataset to understand the factors that influence the **Loan_Status**. I began by exploring the dataset’s structure : i.e checking **data types**, separating **numerical and categorical** columns, and identifying **missing values**. This initial step helped me understand the dataset and prepare it for proper analysis.
 
 I then cleaned the data by handling missing and inconsistent entries using **median** and **mode imputation**, and ensured each feature had the correct data type. After cleaning, I performed **univariate analysis** to explore the distribution of each column. I used **histograms, boxplots, countplots**, and **Plotly interactive visualizations** to study patterns, detect **outliers**, and identify **skewed** numerical features.
 
@@ -24,6 +24,6 @@ From this EDA project, I learned how to:
 * Understand feature relationships using **correlation analysis**
 * Engineer new features that improve data understanding
 
-Overall, this project strengthened my ability to explore datasets effectively and understand insights clearly—exactly what is expected from a data analyst or data scientist.
+Overall, this project strengthened my ability to explore datasets effectively and understand insights clearly,exactly like what is expected from a data analyst or data scientist.
 
 
